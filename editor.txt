@@ -1,1 +1,4 @@
 Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS.
+
+
+Microsoft has released Visual Studio Code's source code on the VSCode repository of GitHub, under the permissive MIT License,[5][9] while the compiled releases are freeware.[7]
