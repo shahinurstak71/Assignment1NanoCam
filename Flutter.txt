@@ -6,3 +6,5 @@ The first version of Flutter was known as codename "Sky" and ran on the Android 
 
 
 Flutter apps are written in the Dart language and make use of many of the language's more advanced features.
+
+ Most developers interact with Flutter via the Flutter Framework, which provides a reactive framework and a set of platform, layout, and foundation widgets.
